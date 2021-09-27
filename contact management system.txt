@@ -1,6 +1,6 @@
 /*  ****** MINI PROJECT ON CONTACT MANAGEMENT SYSTEM ****** */
 
-#include <stdio.h>                               // 150 178
+#include <stdio.h>                               
 
 #include <string.h>               
 
