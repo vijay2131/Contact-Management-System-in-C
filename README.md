@@ -1,4 +1,4 @@
-# Vijay-Simha-Reddy-G
+# Contact Management System
 This is a project in C that allows you to manage contacts.**
 
 Contents:
